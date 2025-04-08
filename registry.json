@@ -1,7 +1,7 @@
 {
   "packages": [{
-    name: "Yahoo Finance Integration",
-    description: "Integrates live financial data from Yahoo",
-    link: "@tonk/yahoo-finance-integration",
+    "name": "Yahoo Finance Integration",
+    "description": "Integrates live financial data from Yahoo",
+    "link": "@tonk/yahoo-finance-integration",
   }]
 }
